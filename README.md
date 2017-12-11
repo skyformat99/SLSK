@@ -43,7 +43,7 @@ good amount of games ignoring this, writing saves and configs in other specific 
 of the system. Some of them may not even have save files, or configurations may be stored exclusively via cloud. Regardless, it is up to us
 to find that out and contribute so others can be helped.
 
-So far, there are **135** games registered in SLSK's database, of which **36** have incomplete path information.
+So far, there are **135** games registered in SLSK's database, of which **35** have incomplete path information.
 
 ### Main features
 

@@ -29,7 +29,6 @@
 * SWARMRIDERS (save and config)
 * ShellShock Live (config)
 * Spriter Pro (config)
-* Super Crate Box (save and config)
 * Super Win The Game (save and config)
 * Trip to Vinelands (save and config)
 * UBERMOSH (save and config)
