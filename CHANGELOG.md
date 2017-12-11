@@ -5,7 +5,7 @@
   - HITMAN™
   - Super Crate Box
 
-### 2017-12-06 - Initial release [v1.0.0]
+### 2017-12-10 - Initial release [v1.0.0]
 * 133 games added to the database:
   - 1001 Spikes
   - 140
