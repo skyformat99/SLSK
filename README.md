@@ -3,7 +3,7 @@
 Steam Linux Swiss Knife is an open-source program that aims to automate the backup and restore of Steam games, their saves and
 configs, centralizing paths in a local and extremely lightweight database.
 
-[[https://github.com/supremesonicbrazil/SLSK/blob/master/SLSK_img.png]]
+![screenshot](https://github.com/supremesonicbrazil/SLSK/blob/master/SLSK_img.png)
 
 # Table of Contents
 
