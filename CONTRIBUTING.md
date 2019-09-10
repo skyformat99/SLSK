@@ -62,7 +62,7 @@ gets easier (especially when you manage to reduce parts of the code)
   * Also, try to keep the code *well formatted*. It's OK if it gets kinda big, as long as it's functional and stable enough so it doesn't crash the
 program, we can always reduce it later
   * Still regarding the point above, reduce code as you like but *don't reduce it too much* so it gets unreadable - I know we as programmers
-are always itching to do things like [this](https://en.wikipedia.org/wiki/Minification_(programming\)#Example), but remember that
+are always itching to do things like [this](https://en.wikipedia.org/wiki/Minification_(programming)#Example), but remember that
 readability counts a lot, so reduce with moderation
 * About the UI:
   * If you feel the UI needs a tweak here and there, let us know first so we can discuss about it (bring your mockups / screenshots as well!)
